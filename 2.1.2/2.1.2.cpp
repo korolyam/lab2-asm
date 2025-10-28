@@ -27,6 +27,7 @@ int main()
         f2xm1
         fadd st(0), st(2)
         fdiv st(0), st(3)
+        fsqrt
         fld x
         fsub st(0), st(2)
         fcos
